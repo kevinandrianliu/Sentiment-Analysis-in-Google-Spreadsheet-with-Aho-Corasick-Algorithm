@@ -53,3 +53,5 @@ Maka, <nama> yang memiliki sentimen <daftar kata> paling banyak.
 - Bonus
   
 2. Pengerjaan dengan **_Scala_** akan diberi nilai **_2400_**, sedangkan jika menambah implementasi dengan **_Clojure_** akan menambah bonus **_1500_**.
+
+3. **_Penilaian akan digunakan dengan sheet asli dari bit.ly/buatstima, sehingga silahkan siapkan semua kemungkinan yang mungkin. Dipastikan bahwa semua karakter yang dipakai dalam pengujian adalah karakter ASCII. Sheet dummy merupakan bantuan untuk kalian agar tidak ada data yang bocor sebelum demo_**
